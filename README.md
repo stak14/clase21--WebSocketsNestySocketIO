@@ -72,7 +72,4 @@ Una vez instaladas las dependencias, puedes ejecutar la aplicación con los sigu
 
 El servidor se iniciará, por defecto, en `http://localhost:3000`.
 
------
 
-3.  **Elimina** las secciones que no necesites.
-4.  **Sube** el archivo a tu repositorio de GitHub, GitLab, etc.
